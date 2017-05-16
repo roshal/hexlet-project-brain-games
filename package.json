@@ -1,0 +1,19 @@
+{
+  "name": "hexlet-project-brain-games",
+  "babel": {
+    "presets": [
+      "env"
+    ]
+  },
+  "eslintConfig": {
+    "env": {
+      "node": true
+    },
+    "extends": "airbnb"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-env": "*",
+    "eslint": "*"
+  }
+}
