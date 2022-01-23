@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "babel-preset-env": "*",
+    "eslint": "*"
+  },
+  "license": "MIT"
+}
